@@ -6,6 +6,8 @@ function About() {
       <div className='about-container-top'>
         <p>Hello, I'm</p>
         <h1><strong>Giovanni Giacalone</strong></h1>
+      </div>
+      <div className='about-containers'>
         <p>University Student, Robotics Engineer, and Full Stack Developer</p>
       </div>
     </div>

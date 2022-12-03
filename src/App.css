@@ -33,7 +33,7 @@ video {
 
 .about {
     display: block;
-    padding-top: 20px;
+    padding-top: 30px;
     height: 90vh;
     align-items: center;
     justify-content: center;
@@ -50,16 +50,18 @@ video {
 }
 
 .about-container-top {
-    display:flex ;
-    margin-top: 50px;
-    border-radius: 5px;
     background-color: #0b0b0c;
-    padding-left: 100px;
-    padding-right: 100px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 5px;
     padding-top: 20px;
-    padding-bottom: 40px;
-    justify-content: center;
+    padding-bottom: 25px;
+}
 
+.about-containers {
+    
 }
 
 .projects {
